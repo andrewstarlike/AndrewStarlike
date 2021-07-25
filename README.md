@@ -2,9 +2,9 @@
 
 You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu/ and my CV here: https://andrewstarlike.com/
 
-On Jul 25, 2021 I created the following repo based on Maximilian Schwarzmuller's course on React JS (https://www.udemy.com/course/react-the-complete-guide-incl-redux/). The repo is https://github.com/AndrewStarlike/react-login and it features a React JS login with all interesting features (useEffect, useContext and useReducer, abstract inputs and forward refs to focus on a specific input when the login button is pressed).
+On Jul 25, 2021 I created the following repo based on Maximilian Schwarzmuller's course on React JS (https://www.udemy.com/course/react-the-complete-guide-incl-redux/). The repo is https://github.com/AndrewStarlike/react-login and it features a React JS login with all interesting features (useEffect, useContext and useReducer, abstract inputs and forward refs to focus on a specific input when the login button is pressed). useContext is used for login and logout.
 
-On Jul 25, 2021 I created the following repo again based on Maximilian Schwarzmuller's course on React JS. The repo is https://github.com/AndrewStarlike/react-user and it feature an add user form together with some error handling mechanism that displays errors in a modal.
+On Jul 25, 2021 I created the following repo again based on Maximilian Schwarzmuller's course on React JS. The repo is https://github.com/AndrewStarlike/react-user and it feature an add user form together with some error handling mechanism that displays errors in a modal. The modal is properly inserted using React.createPortal.
 
 On Jul 21, 2021 I created another repo based on Maximilian Schwarzmuller's course on React JS. The repo is https://github.com/AndrewStarlike/course-goals-react and it demonstrates the usage of CSS modules (in /src/components/UI/Button/Button.js) and setting CSS classes dynamically (in src/components/CourseGoals/CourseInput/CourseInput.js).
 
