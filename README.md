@@ -2,6 +2,8 @@
 
 You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu/ and my CV here: https://andrewstarlike.com/
 
+On Jul 26, 2021 I created a React app based on Maximilian Schwarzmuller's course on React JS. The repo is here https://github.com/AndrewStarlike/react-food. This app uses useState, useEffect for showing an animation to the cart, useContext for sharing cart's props and functions across components, a modal for displaying the cart with a backdrop, forwared refs for getting the amount from an abstract input.
+
 On Jul 25, 2021 I created the following repo based on Maximilian Schwarzmuller's course on React JS (https://www.udemy.com/course/react-the-complete-guide-incl-redux/). The repo is https://github.com/AndrewStarlike/react-login and it features a React JS login with all interesting features (useEffect, useContext and useReducer, abstract inputs and forward refs to focus on a specific input when the login button is pressed). useContext is used for login and logout.
 
 On Jul 25, 2021 I created the following repo again based on Maximilian Schwarzmuller's course on React JS. The repo is https://github.com/AndrewStarlike/react-user and it feature an add user form together with some error handling mechanism that displays errors in a modal. The modal is properly inserted using React.createPortal.
