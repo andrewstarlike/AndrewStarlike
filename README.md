@@ -2,7 +2,7 @@
 
 You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu/ and my CV here: https://andrewstarlike.com/
 
-On Jul 26, 2021 I created a small React app to demonstrate classes. The repo is https://github.com/AndrewStarlike/react-classes. Basically I added useEffect and useContext equivalent in class based components and demonstrated error boundry.
+On Jul 26, 2021 I created a small React app to demonstrate classes. The repo is https://github.com/AndrewStarlike/react-classes. Basically I added useEffect and useContext equivalents in class based components and demonstrated error boundry.
 
 On Jul 26, 2021 I created a React app based on Maximilian Schwarzmuller's course on React JS. The repo is here https://github.com/AndrewStarlike/react-food. This app uses useState, useEffect for showing an animation to the cart, useContext for sharing cart's props and functions across components, a modal for displaying the cart with a backdrop - both properly inserted using createPortal, forwared refs for getting the amount from an abstract input.
 
