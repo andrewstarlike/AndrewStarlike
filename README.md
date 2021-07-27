@@ -3,7 +3,7 @@
 You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu/ and my CV here: https://andrewstarlike.com/
 
 On Jul 27, 2021 I created a small React app to demonstrate basic READ and CREATE using Firebase. The repo is https://github.com/AndrewStarlike/react-api. I used 
-useState, useEffect, useCallback and Fetch.
+useState, useEffect, useCallback, Fetch and basic error handling.
 
 On Jul 26, 2021 I created a small React app to demonstrate classes. The repo is https://github.com/AndrewStarlike/react-classes. Basically I added useEffect and useContext equivalents in class based components and demonstrated error boundry.
 
