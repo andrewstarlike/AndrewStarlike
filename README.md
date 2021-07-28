@@ -2,6 +2,8 @@
 
 You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu/ and my CV here: https://andrewstarlike.com/
 
+On Jul 29, 2021 I created a small React app to demonstrate form validations using a custom hook. The repo is https://github.com/AndrewStarlike/react-form-validation.
+
 On Jul 28, 2021 I created a small React app to demonstrate custom hooks. The repo is https://github.com/AndrewStarlike/react-custom-hook. In this repo there is quite some code abstraction around fetching and posting data to Firebase by using a custom hook.
 
 On Jul 27, 2021 I created a small React app to demonstrate basic READ and CREATE using Firebase. The repo is https://github.com/AndrewStarlike/react-api. I used 
