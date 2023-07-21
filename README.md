@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Andrei Sandulescu but sometimes I call myself Andrew Starlike on the web.
+- 👋 Hi, I’m Andrei Sandulescu and I'm a PHP and Next JS developer
 
-You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu/ and my CV here: https://andrewstarlike.com/
+You can find LinkedIn profile here: https://www.linkedin.com/in/andrei-sandulescu-bab204256/ .
 
 On Jul 29, 2021 I created a small React app to demonstrate form validations using a custom hook. The repo is https://github.com/AndrewStarlike/react-form-validation.
 
